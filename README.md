@@ -1,9 +1,8 @@
-[![VNG Realisatie Open Source](images/VNG-R.png)](https://vng-realisatie.github.io)
+[![VNG Realisatie Open Source](images/logo.png)](https://vng-realisatie.github.io)
 
 # vng-realisatie.github.io
 
 Showcase of Open Source projects.
-
 ---
 
 ## Adding content
